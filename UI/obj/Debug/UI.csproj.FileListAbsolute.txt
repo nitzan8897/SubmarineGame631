@@ -1,0 +1,6 @@
+C:\Users\nitza\source\repos\SubmarineGame\UI\bin\Debug\UI.dll
+C:\Users\nitza\source\repos\SubmarineGame\UI\bin\Debug\UI.pdb
+C:\Users\nitza\source\repos\SubmarineGame\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\nitza\source\repos\SubmarineGame\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\nitza\source\repos\SubmarineGame\UI\obj\Debug\UI.dll
+C:\Users\nitza\source\repos\SubmarineGame\UI\obj\Debug\UI.pdb

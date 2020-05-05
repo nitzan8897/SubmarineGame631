@@ -1,0 +1,6 @@
+C:\Users\nitza\source\repos\SubmarineGame\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\nitza\source\repos\SubmarineGame\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\nitza\source\repos\SubmarineGame\BL\bin\Debug\BL.dll
+C:\Users\nitza\source\repos\SubmarineGame\BL\bin\Debug\BL.pdb
+C:\Users\nitza\source\repos\SubmarineGame\BL\obj\Debug\BL.dll
+C:\Users\nitza\source\repos\SubmarineGame\BL\obj\Debug\BL.pdb
